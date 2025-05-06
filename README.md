@@ -23,7 +23,10 @@ Each day, I take on a new challenge - from beginner concepts like variables and 
 
 | Day | Topic | File |
 | --- | ----- | ---- |
-|  1  | 
+|  1  | Integer Challenge | day01.c |
+|  2  | VARIABLES FLOAT - DOUBLES  | day02.c |
+|  3  | Boolean Logic | day03.c |
+|  4  | Potion Potency | day4.c |
 
 > I update this table as I go!
 
